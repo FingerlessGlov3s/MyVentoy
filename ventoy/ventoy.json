@@ -73,7 +73,7 @@
 			"class": "proxmox"
 		},
 		{
-			"key": "opnsense",
+			"key": "OPNsense",
 			"class": "opnsense"
 		},
 		{
@@ -135,6 +135,10 @@
 		{
 			"dir": "/ISOs/Utilities",
 			"class": "utilities"
+		},
+		{
+			"dir": "/ISOs/RouterOS",
+			"class": "router"
 		}
 	]
 }
