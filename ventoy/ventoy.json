@@ -1,0 +1,140 @@
+{
+	"control": [{
+			"VTOY_DEFAULT_MENU_MODE": "1"
+		},
+		{
+			"VTOY_FILT_DOT_UNDERSCORE_FILE": "1"
+		},
+		{
+			"VTOY_DEFAULT_SEARCH_ROOT": "/ISOs"
+		}
+	],
+	"theme": {
+		"file": "/ventoy/theme/Tela/theme.txt",
+		"display_mode": "GUI",
+		"ventoy_left": "5%",
+		"ventoy_top": "5%",
+		"ventoy_color": "#0000ff",
+		"fonts": [
+			"/ventoy/theme/Tela/dejavu_sans_12.pf2",
+			"/ventoy/theme/Tela/dejavu_sans_14.pf2",
+			"/ventoy/theme/Tela/dejavu_sans_16.pf2",
+			"/ventoy/theme/Tela/dejavu_sans_24.pf2",
+			"/ventoy/theme/Tela/dejavu_sans_32.pf2",
+			"/ventoy/theme/Tela/dejavu_sans_48.pf2",
+			"/ventoy/theme/Tela/terminus-14.pf2",
+			"/ventoy/theme/Tela/terminus-12.pf2",
+			"/ventoy/theme/Tela/terminus-16.pf2",
+			"/ventoy/theme/Tela/terminus-18.pf2"
+		]
+	},
+	"menu_class": [{
+			"key": "android-",
+			"class": "android"
+		},
+		{
+			"key": "archlinux-",
+			"class": "arch"
+		},
+		{
+			"key": "debian-",
+			"class": "debian"
+		},
+		{
+			"key": "gparted-",
+			"class": "gparted"
+		},
+		{
+			"key": "Fedora-",
+			"class": "fedora"
+		},
+		{
+			"key": "FreeBSD-",
+			"class": "freebsd"
+		},
+		{
+			"key": "memtest86",
+			"class": "memtest"
+		},
+		{
+			"key": "kali-",
+			"class": "kali"
+		},
+		{
+			"key": "manjaro-",
+			"class": "manjaro"
+		},
+		{
+			"key": "parrot-",
+			"class": "parrot"
+		},
+		{
+			"key": "proxmox-",
+			"class": "proxmox"
+		},
+		{
+			"key": "opnsense",
+			"class": "opnsense"
+		},
+		{
+			"key": "pfsense",
+			"class": "pfsense"
+		},
+		{
+			"key": "neon-",
+			"class": "neon"
+		},
+		{
+			"key": "xubuntu-",
+			"class": "xubuntu"
+		},
+		{
+			"key": "Macrium",
+			"class": "macrium"
+		},
+		{
+			"key": "clonezilla",
+			"class": "clonezilla"
+		},
+		{
+			"key": "ubuntu-",
+			"class": "ubuntu"
+		},
+		{
+			"key": "Win10",
+			"class": "windows"
+		},
+		{
+			"key": "WinPE10",
+			"class": "windows"
+		},
+		{
+			"key": "windows-",
+			"class": "windows"
+		},
+		{
+			"dir": "/ISOs/Linux",
+			"class": "linux"
+		},
+		{
+			"dir": "/ISOs/Other",
+			"class": "driver"
+		},
+		{
+			"dir": "/ISOs/Hypervisor",
+			"class": "hypervisor"
+		},
+		{
+			"dir": "/ISOs/Windows",
+			"class": "windows"
+		},
+		{
+			"dir": "/ISOs/Utilities/Clonezilla",
+			"class": "clonezilla"
+		},
+		{
+			"dir": "/ISOs/Utilities",
+			"class": "utilities"
+		}
+	]
+}
